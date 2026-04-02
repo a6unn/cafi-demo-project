@@ -14,7 +14,7 @@
     "db:studio": "npx prisma studio"
   },
   "keywords": ["api", "notes", "claude-code", "cafi"],
-  "author": "CAFI Demo",
+  "author": "Arun Kumar <a6unnkumar@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@prisma/client": "^6.5.0",
