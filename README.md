@@ -26,7 +26,7 @@ The task for both rounds: **Add a bookmarks feature** (CRUD + pagination + valid
 
 ```bash
 # Clone the repo
-git clone https://github.com/ArunGanesan/cafi-demo-project.git
+git clone https://github.com/a6unn/cafi-demo-project.git
 cd cafi-demo-project
 
 # Install dependencies
